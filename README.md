@@ -53,7 +53,6 @@ Learning : ISO 27001 · Threat Modelling · IaC Security
 * **“Best Business Idea” – Super Hacka FY18** – Finastra internal finale, London
 
 </details>
-```
 
 ---
 
